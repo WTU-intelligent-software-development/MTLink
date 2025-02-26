@@ -1,0 +1,141 @@
+absl-py==2.0.0
+accelerate==0.27.2
+aiohttp @ file:///C:/b/abs_8860tt1424/croot/aiohttp_1715108828392/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+altgraph==0.17.3
+astunparse==1.6.3
+async-timeout @ file:///C:/b/abs_c8fgiuixkq/croot/async-timeout_1703097556097/work
+attrs @ file:///C:/b/abs_35n0jusce8/croot/attrs_1695717880170/work
+boto3==1.28.73
+botocore==1.31.73
+Bottleneck @ file:///C:/b/abs_f05kqh7yvj/croot/bottleneck_1707864273291/work
+Brotli @ file:///C:/b/abs_3d36mno480/croot/brotli-split_1714483178642/work
+cachetools==5.3.1
+certifi==2022.12.7
+chardet @ file:///C:/ci/chardet_1607706937985/work
+charset-normalizer==2.1.1
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+coloredlogs==15.0.1
+contourpy==1.1.1
+cupy-cuda101==9.6.0
+curses @ file:///D:/Anaconda3/Scripts/curses-2.2.1%2Butf8-cp39-cp39-win_amd64.whl
+cycler==0.11.0
+datasets==2.13.0
+ddddocr==1.4.7
+deep-forest==0.1.7
+dgl==1.1.2
+dill==0.3.6
+fastrlock==0.8.1
+filelock @ file:///C:/b/abs_f2gie28u58/croot/filelock_1700591233643/work
+flatbuffers==23.5.26
+fonttools==4.42.1
+frozenlist @ file:///C:/b/abs_d8e__s1ys3/croot/frozenlist_1698702612014/work
+fsspec==2024.2.0
+gast==0.5.4
+gensim==4.3.2
+gevent==22.10.2
+google-auth==2.23.1
+google-auth-oauthlib==1.0.0
+google-pasta==0.2.0
+greenlet==2.0.2
+grpcio==1.58.0
+h5py==3.9.0
+huggingface_hub @ file:///C:/b/abs_2629p5gdd8/croot/huggingface_hub_1716498314460/work
+idna==3.4
+imbalanced-learn==0.9.1
+imblearn==0.0
+importlib-metadata==6.8.0
+importlib-resources==6.1.0
+Jinja2==3.1.2
+jmespath==1.0.1
+joblib==1.3.2
+keras==2.14.0
+kiwisolver==1.4.5
+libclang==16.0.6
+many-stop-words==0.2.2
+Markdown==3.4.4
+MarkupSafe==2.1.2
+matplotlib==3.8.0
+mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
+mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-service==2.4.0
+ml-dtypes==0.2.0
+mpmath==1.3.0
+multidict @ file:///C:/b/abs_44ido987fv/croot/multidict_1701097803486/work
+multiprocess==0.70.14
+neobolt==1.7.17
+neotime==1.7.4
+networkx==3.0
+nltk==3.8.1
+numexpr @ file:///C:/b/abs_5fucrty5dc/croot/numexpr_1696515448831/work
+numpy==1.26.0
+oauthlib==3.2.2
+onnxruntime==1.14.1
+opencv-python-headless==4.7.0.72
+openprompt==1.0.1
+opt-einsum==3.3.0
+packaging==23.1
+pandas==1.3.4
+pefile==2023.2.7
+peft==0.8.2
+Pillow==9.3.0
+prompt-toolkit==2.0.10
+protobuf @ file:///D:/bld/protobuf_1681050122068/work/python
+psutil==5.9.5
+py2neo==4.3.0
+pyarrow @ file:///C:/b/abs_93i_y2dub4/croot/pyarrow_1707330894046/work/python
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pyinstaller==5.8.0
+pyinstaller-hooks-contrib==2023.0
+pyparsing==3.1.1
+PySocks @ file:///C:/ci/pysocks_1605307512533/work
+python-dateutil==2.8.2
+pytz==2023.3.post1
+PyYAML @ file:///C:/b/abs_782o3mbw7z/croot/pyyaml_1698096085010/work
+regex==2023.8.8
+requests==2.31.0
+requests-oauthlib==1.3.1
+rouge==1.0.0
+rsa==4.9
+s3transfer==0.7.0
+safetensors @ file:///C:/b/abs_fb_felonp1/croot/safetensors_1719507965100/work
+scikit-learn @ file:///C:/b/abs_d6_krvz8aa/croot/scikit-learn_1714164798159/work
+scikit-optimize==0.10.1
+scipy==1.11.2
+sentencepiece==0.1.96
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+sklearn==0.0.post1
+smart-open==6.4.0
+sympy==1.12
+tensorboard==2.14.0
+tensorboard-data-server==0.7.1
+tensorboardX==2.6.1
+tensorflow==2.14.0
+tensorflow-estimator==2.14.0
+tensorflow-intel==2.14.0
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.3.0
+textbrewer==0.2.1.post1
+threadpoolctl==3.2.0
+tokenizers @ file:///C:/b/abs_10ywgwv9nd/croot/tokenizers_1721139561866/work
+torch==1.13.1+cu116
+torchaudio==0.13.1+cu116
+torchvision==0.14.1+cu116
+tqdm==4.66.1
+transformers @ file:///C:/b/abs_57xblrok6x/croot/transformers_1721925443605/work
+tree-sitter==0.20.2
+typing_extensions @ file:///C:/b/abs_0as9mdbkfl/croot/typing_extensions_1715268906610/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3==1.26.18
+Werkzeug==2.3.7
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
+wrapt==1.14.1
+xformer==1.0.1
+xlutils==2.0.0
+xlwt==1.3.0
+xxhash==3.2.0
+yacs==0.1.8
+yarl @ file:///C:/b/abs_8bxwdyhjvp/croot/yarl_1701105248152/work
+zipp @ file:///C:/b/abs_b0beoc27oa/croot/zipp_1704206963359/work
+zope.event==4.6
